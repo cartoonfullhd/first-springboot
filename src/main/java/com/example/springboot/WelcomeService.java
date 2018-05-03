@@ -8,6 +8,6 @@ public class WelcomeService
 	{
 		public String retrieveWelcomeMessage()
 		{
-			return "Welcome";
+			return "Welcome Service";
 		}
 	}
